@@ -8,6 +8,5 @@ We build minimal and hackable desktop experiences for Wayland.
 
 <br/>
 
-<!--[![Discord](https://img.shields.io/badge/Join%20the%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=D9E0EE&labelColor=252733)](https://discord.gg/yourinvite)
--->
+[![Discord](https://img.shields.io/badge/Join%20the%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=D9E0EE&labelColor=252733)](https://discord.gg/yourinvite)
 </div>
