@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://raw.githubusercontent.com/noxwm/.github/main/assets/banner.png" width="600"/>
 
 Welcome to the page of **noxwm**, the organization behind noctis and the entire ecosystem around it.
